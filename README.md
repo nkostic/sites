@@ -14,8 +14,6 @@ This turborepo uses [NPM](https://www.npmjs.com/) as a package manager. It inclu
 - `config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
-
 ### Utilities
 
 This turborepo has some additional tools already setup for you:
