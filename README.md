@@ -1,7 +1,5 @@
-# Turborepo starter with NPM
-
-This is an official starter turborepo.
-
+# Sites
+This is a monorepo for my personal sites.
 ## What's inside?
 
 This turborepo uses [NPM](https://www.npmjs.com/) as a package manager. It includes the following packages/apps:
@@ -10,7 +8,10 @@ This turborepo uses [NPM](https://www.npmjs.com/) as a package manager. It inclu
 
 - `docs`: a [Next.js](https://nextjs.org) app
 - `web`: another [Next.js](https://nextjs.org) app
+- `nkostic.dev`: a [Sveltekit](https://kit.svelte.dev) app
+- `tehnika8x8.com`: another [Sveltekit](https://kit.svelte.dev) app
 - `ui`: a stub React component library shared by both `web` and `docs` applications
+- `uikit`: aa stub Svelte component library shared by both `nkostic.dev` and `tehnika8x8.com` sites
 - `config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
